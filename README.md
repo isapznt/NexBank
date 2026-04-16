@@ -1,4 +1,5 @@
 💳 Bank 24h
+
 📌 Descrição
 
 Sistema de autoatendimento bancário desenvolvido com foco em validação rigorosa de dados, evitando erros em operações financeiras. Utiliza JavaScript, HTML e CSS, com validação obrigatória usando do while + REGEX.
